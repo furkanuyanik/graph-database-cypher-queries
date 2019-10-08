@@ -6,7 +6,7 @@
 MATCH (n) RETURN (n) 
 ```
 
-**Delete All Data**,
+**Delete All Data**
 ``` 
 MATCH (n) DETACH DELETE (n)
 ```
